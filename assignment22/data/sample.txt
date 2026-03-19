@@ -1,4 +1,0 @@
-LangChain enables building applications with LLMs.
-Embeddings convert text into vectors.
-Vector databases help in similarity search.
-RAG systems use embeddings for retrieval.
