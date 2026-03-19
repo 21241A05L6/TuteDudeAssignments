@@ -1,0 +1,3 @@
+This is a sample text file.
+LangChain helps in building LLM applications.
+Text splitting is important for large documents.
