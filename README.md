@@ -1,15 +1,42 @@
-# GenAI Deployment App
+# TinyLlama GenAI Assistant
 
-This is a Streamlit-based Generative AI deployment project.
+This is a Generative AI application developed using Streamlit and Hugging Face Transformers.
+
+The application uses the TinyLlama language model to generate AI responses for user questions.
 
 ## Features
 
-- Streamlit Cloud Deployment
-- Hugging Face Spaces Deployment
-- User interaction using Streamlit
+- AI-generated answers
+- Streamlit user interface
+- TinyLlama LLM integration
+- Prompt engineering
+- Error handling
+- Deployment ready
 
-## Run Locally
+## Technologies Used
+
+- Python
+- Streamlit
+- Transformers
+- TinyLlama
+- Torch
+
+## Run Application
+
+Install requirements:
 
 pip install -r requirements.txt
 
+Run app:
+
 streamlit run app.py
+
+## Learning Outcome
+
+In this project I learned:
+
+- How to deploy GenAI applications
+- How to use Hugging Face models
+- Prompt engineering basics
+- Streamlit deployment
+- Error handling in AI apps
